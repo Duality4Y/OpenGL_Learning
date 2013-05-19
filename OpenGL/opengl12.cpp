@@ -1,3 +1,6 @@
-/*learning opengl :) I'll put the link in the description.
-	it's just a little window with a white square in it that 
-	rotates.*/
+/*
+	hey all, this time i made some modifications to my code, 
+	I can controle how fast it spins (the square) and the size of it).
+	sometimes this creates some funny shapes, don't know if it i'll show up on the 
+	screen though
+*/
